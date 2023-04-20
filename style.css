@@ -1,0 +1,64 @@
+#titulo {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.indice {
+    position: fixed;
+    background: #ffffff00;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    text-align: center;
+    
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: Oswald;
+    font-size: 20px
+}
+.aplicacion {
+    background: chocolate;
+}
+.subtitulos {
+    font-family: Hind Siliguri;
+    font-size: 30;
+}
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+.juego {
+    background: chartreuse;
+}
+.botchat {
+    background: hotpink;
+} 
+
+
+
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
